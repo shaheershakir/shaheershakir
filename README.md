@@ -15,8 +15,5 @@ I'm a Computer Science and Engineering Graduate, Who is Looking to Break into Te
 - **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
 
 ## Connect with Me 📬
-- 🐦 [X/Twitter](https://x.com/ShaheerShakir_)
-- 📫 [Email](mailto:shaheershakir22@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/shaheer-shakir-a45276210/)
 
 I’m looking forward to collaborating on projects that are at the intersection of technology and social good. Let’s connect! 🌍
